@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: cuentaflow
+  mongodb:
+    uri: mongodb://localhost:27017/cuentaflowdb
+
+server:
+  port: 8085
